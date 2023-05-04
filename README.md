@@ -1,3 +1,4 @@
+Olá! Eu sou Renan Claude 
 Seja bem vindo ao meu GitHub!
 
 SKILLS:
@@ -27,5 +28,6 @@ SKILLS:
 
 CONTACT:
 
+https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
