@@ -28,8 +28,10 @@ Seja bem vindo ao meu GitHub!
 
 ![Claude - GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanClaude&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanClaude&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block" align="center">
-CONTACT:
+     <p>CONTACT:</p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-claude-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMlcGzvLLBDnbZZrKwnKKWjvcLtKNsCNVtPVHXvBdDRxPzRPWGnRXxjCskDPKshBddRpn)
