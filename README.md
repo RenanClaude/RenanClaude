@@ -28,6 +28,6 @@ SKILLS:
 
 CONTACT:
 
-![show](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)
+![show](![image](https://user-images.githubusercontent.com/113383027/236119373-ffbc216f-bcfc-45db-8e71-6d690547dffa.png))
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
