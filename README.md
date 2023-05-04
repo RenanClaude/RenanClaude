@@ -2,7 +2,7 @@ Olá! Eu sou Renan Claude <img width=30px src="https://camo.githubusercontent.co
 
 Seja bem vindo ao meu GitHub!
 
-SKILLS:
+<p>SKILLS:</p>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -29,7 +29,7 @@ SKILLS:
 
 CONTACT:
 <p align="center">
-<img width=90px onClick="https://www.linkedin.com/in/renan-claude-dev/"
+<img width=90px onClick={https://www.linkedin.com/in/renan-claude-dev/"}
      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif">
  <img width=90px src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max">
  </p>
