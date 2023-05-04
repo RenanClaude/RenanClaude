@@ -34,7 +34,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-claude-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMlcGzvLLBDnbZZrKwnKKWjvcLtKNsCNVtPVHXvBdDRxPzRPWGnRXxjCskDPKshBddRpn)
      
-<img width=90px href="https://www.linkedin.com/in/renan-claude-dev/"
+<!-- <img width=90px
      src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif">
- <img width=90px src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max">
+ <img width=90px src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max"> -->
 </div>
