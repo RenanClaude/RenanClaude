@@ -1,8 +1,7 @@
 ## Olá! Eu sou Renan Claude Grossl  <img width=30px src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><br/>
 ### Seja muito bem-vindo(a) ao meu GitHub!
 
-#### SKILLS:
-
+### 👨‍💻 Skills:<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
@@ -25,12 +24,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### ✔ GitHub Stats:<br/>
 ![Claude - GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanClaude&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanClaude&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### 👥 Contato:<br/>
 <div style="display: inline_block" align="center">
-     <p>CONTATO:</p>
      
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-claude-dev/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzCMlcGzvLLBDnbZZrKwnKKWjvcLtKNsCNVtPVHXvBdDRxPzRPWGnRXxjCskDPKshBddRpn)
