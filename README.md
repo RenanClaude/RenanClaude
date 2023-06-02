@@ -34,9 +34,10 @@ Sou desenvolvedor Jr. Back-End com formação Full-Stack em progresso na Escola 
 <br/>
 
 ## ✔ GitHub Stats:<br/>
-![Claude - GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanClaude&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanClaude&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block" align="center" >
+ <img src="https://github-readme-stats.vercel.app/api?username=RenanClaude&show_icons=true&theme=radical" alt="Renan Claude" height="210"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanClaude&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Renan Claude" height="210"/>
+</div>
 
 ## 👥 Contato:<br/>
 <div style="display: inline_block" align="center">
