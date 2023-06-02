@@ -1,9 +1,12 @@
 ## Olá! Eu sou Renan Claude Grossl  <img width=30px src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><br/>
 ### Seja muito bem-vindo(a) ao meu GitHub!
-<div style="display: inline_block" align="left" width=200px>
-     Sou desenvolvedor Jr. Back-End com formação Full-Stack em progresso na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: _JavaScript_, _TypeScript_, _Node.js_, _Express.js_, _MySQL_, _Sequelize_, _Docker_, entre outras. Tenho formação acadêmica em direito e tive a oportunidade fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança. Tenho a grande ambição profissional de me tornar um desenvolvedor Sênior, e tenho plena convicção de ser capaz.
+<div>
+<img width=150px src="https://i.pinimg.com/originals/48/e3/03/48e303bf57f8ad627c73a0e0e30f5f33.gif" width="120" align="right">
+ <p align="left">
+     Sou desenvolvedor Jr. Back-End com formação Full-Stack em progresso na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: JavaScript, TypeScript, Node.js, Express.js, MySQL, Sequelize, Docker, entre outras. Tenho formação acadêmica em direito e tive a oportunidade fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança. Tenho a grande ambição profissional de me tornar um desenvolvedor Sênior, e tenho plena convicção de ser capaz.
+  </p>
+     
 </div>
-     <img width=150px src="https://i.pinimg.com/originals/48/e3/03/48e303bf57f8ad627c73a0e0e30f5f33.gif">
 
 ### 👨‍💻 Skills:<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
