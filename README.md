@@ -1,11 +1,13 @@
-## Olá! Eu sou Renan Claude Grossl  <img width=30px src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><br/>
-### Seja muito bem-vindo(a) ao meu GitHub!
+# Olá! Eu sou Renan Claude Grossl  <img width=30px src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><br/>
+
+## Seja muito bem-vindo(a) ao meu GitHub!
 <img width=150px src="https://i.pinimg.com/originals/48/e3/03/48e303bf57f8ad627c73a0e0e30f5f33.gif" width="120" align="right">
  <p align="left">
-     Sou desenvolvedor Jr. Back-End com formação Full-Stack em progresso na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: JavaScript, TypeScript, Node.js, Express.js, MySQL, Sequelize, Docker, entre outras. Tenho formação acadêmica em direito e tive a oportunidade de fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança. Tenho a grande ambição profissional de me tornar um desenvolvedor Sênior, e tenho plena convicção de ser capaz.
+Sou desenvolvedor Jr. Back-End com formação Full-Stack em progresso na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: JavaScript, TypeScript, Node.js, Express.js, MySQL, Sequelize, Docker, entre outras. Tenho formação acadêmica em direito e tive a oportunidade de fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança. Tenho a grande ambição profissional de me tornar um desenvolvedor Sênior, e tenho plena convicção de ser capaz.
   </p>
+  
 
-### 👨‍💻 Skills:<br/>
+## 👨‍💻 Skills:<br/>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
@@ -29,15 +31,14 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+<br/>
 
-
-
-
-### ✔ GitHub Stats:<br/>
+## ✔ GitHub Stats:<br/>
 ![Claude - GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanClaude&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanClaude&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### 👥 Contato:<br/>
+
+## 👥 Contato:<br/>
 <div style="display: inline_block" align="center">
      
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-claude-dev/)
