@@ -36,7 +36,7 @@ Sou desenvolvedor Jr. Back-End com formação Full-Stack em progresso na Escola 
 ## ✔ GitHub Stats:<br/>
 <div style="display: inline_block" align="center" >
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RenanClaude&show_icons=true&theme=radical" alt="Renan Claude" height="200"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanClaude&layout=donut&theme=radical&langs_count=8" alt="Renan Claude" height="200"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanClaude&layout=donut&theme=radical&langs_count=6" alt="Renan Claude" height="200"/>
 </div>
 
 ## 👥 Contato:<br/>
