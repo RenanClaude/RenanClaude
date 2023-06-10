@@ -5,6 +5,7 @@
  <p align="left">
 Sou desenvolvedor Jr. Back-End com formação Full-Stack em progresso na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: JavaScript, TypeScript, Node.js, Express.js, MySQL, Sequelize, Docker, entre outras. Tenho formação acadêmica em direito e tive a oportunidade de fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança. Tenho a grande ambição profissional de me tornar um desenvolvedor Sênior, e tenho plena convicção de ser capaz.
   </p>
+  *Email para contato: renanclaude.rcg@gmail.com*
   
 
 ## 👨‍💻 Skills:<br/>
