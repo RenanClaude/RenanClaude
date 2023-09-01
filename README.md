@@ -3,7 +3,7 @@
 ## Seja muito bem-vindo(a) ao meu GitHub!
 <img width=150px src="https://i.pinimg.com/originals/48/e3/03/48e303bf57f8ad627c73a0e0e30f5f33.gif" width="120" align="right">
  <p align="left">
-Sou desenvolvedor Web com formação Full-Stack em progresso na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: JavaScript, TypeScript, Node.js, Express.js, MySQL, Sequelize, Docker, React entre outras. Tenho formação acadêmica em direito e tive a oportunidade de fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança. Tenho a grande ambição profissional de me tornar um desenvolvedor Sênior, e tenho plena convicção de ser capaz.<br/>
+Sou desenvolvedor Web com formação Full-Stack em progresso na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: Java, JavaScript, TypeScript, Node.js, Express.js, MySQL, Sequelize, Docker, React entre outras. Tenho formação acadêmica em direito e tive a oportunidade de fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança. Tenho a grande ambição profissional de me tornar um desenvolvedor Sênior, e tenho plena convicção de ser capaz.<br/>
  👉 <i>Email para contato: <b>renanclaude.rcg@gmail.com</b></i>
   </p>
 
@@ -26,6 +26,9 @@ Sou desenvolvedor Web com formação Full-Stack em progresso na Escola de progra
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
