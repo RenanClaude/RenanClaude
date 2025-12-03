@@ -3,9 +3,9 @@
 ## Seja muito bem-vindo(a) ao meu GitHub!
 <img width=150px src="https://i.pinimg.com/originals/48/e3/03/48e303bf57f8ad627c73a0e0e30f5f33.gif" width="120" align="right">
  <p align="left">
-Sou desenvolvedor Web Front-End e Back-End com formação Full-Stack na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: Java, Spring Boot, JavaScript, TypeScript, Node.js, React, Next.js, Express.js, MySQL, Sequelize, Docker, entre outras. Tenho formação acadêmica em direito e tive a oportunidade de fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança.<br/><br/>
- 👉 <i>Email para contato: <b>renanclaude.rcg@gmail.com</b></i></br>
- 🌐 <i>Meu site: <b>mybitcoinapp.com</b></i>
+Sou o criador e dono do site <i>mybitcoinapp.com</i>, e sou desenvolvedor Web Front-End e Back-End com formação Full-Stack na Escola de programação Trybe. Tenho habilidades e conhecimentos práticos com linguagens de programação e tecnologias, tais como: Java, Spring Boot, JavaScript, TypeScript, Node.js, React, Next.js, Express.js, MySQL, Sequelize, Docker, entre outras. Tenho formação acadêmica em direito e tive a oportunidade de fazer estágio no Fórum da minha cidade no Juizado Especial Cível, onde pude atender pessoas e redigir principalmente petições. Decidi pela minha transição de carreira por ter muita curiosidade e paixão pelas tecnologias que estão na minha vida desde criança.<br/><br/>
+ 🌐 <i>Meu site: <b>mybitcoinapp.com</b></i></br>
+ 👉 <i>Email para contato: <b>renanclaude.rcg@gmail.com</b></i>
   </p>
 
 ## 👨‍💻 Skills:<br/>
